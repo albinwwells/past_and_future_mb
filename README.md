@@ -3,6 +3,6 @@
 
 Notebooks for paper on long-term changes of Kennicott and Root Glaciers, Alaska
 
-Code used to run this software requires [Python](https://www.python.org/downloads/) and a series of Python packages, which can be easily be installed with [Anaconda](https://www.anaconda.com/download)
+Code used to run this software requires [Python](https://www.python.org/downloads/) and a series of Python packages, which can be easily be installed with [Anaconda](https://www.anaconda.com/download). System requirements and instructions for use are all available with these software packages.
 
 *Manuscript under review*
